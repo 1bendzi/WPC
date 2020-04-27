@@ -1,0 +1,1259 @@
+    1  cd jkanclerz/01-s3/python/
+    2  python testit.py 
+    3  python testit.py 123 abc
+    4  python --version
+    5  pip install pytest
+    6  sudo pip install pytest
+    7  which pip
+    8  ls -la /usr/bin/pip
+    9  alternatives 
+   10  alternatives pip
+   11  pip-3.6 install pytest
+   12  sudo pip-3.6 install pytest
+   13  aws s3 ls
+   14  ls
+   15  pytest 
+   16  python upload_test.py 
+   17  pytest 
+   18  cat /tmp/filename.txt 
+   19  pytest 
+   20  pytest --help
+   21  pytest 
+   22  aws
+   23  aws
+   24  pwdd
+   25  aws
+   26  cd jkanclerz
+   27  ls
+   28  cd jkanclerz/
+   29  ls -la
+   30  ls -la
+   31  cd jkanclerz
+   32  pwd
+   33  cd gogol_s182456
+   34  ls-la
+   35  ls
+   36  ls -la
+   37  pwd
+   38  cd ..
+   39  aws
+   40  aws
+   41  awas
+   42  aws
+   43  help
+   44  hekl ls
+   45  help
+   46  help -ls
+   47  help ls
+   48  aws help
+   49  aws help
+   50  info il
+   51  cd 192270/
+   52  python list_bucket.py
+   53  cd jszerszen
+   54  pyton list_bucket.py 
+   55  python list_bucket.py 
+   56  cd 181665/
+   57  cd bodrobina
+   58  python list.bucket.py
+   59  python list_bucket.py
+   60  python list_bucket.py
+   61  cd ..
+   62  cd bodrobina
+   63  cd 194157
+   64  python list_bucket.py
+   65  python upload.py
+   66  python upload.py
+   67  python upload_bucket.py 
+   68  pwd
+   69  ls
+   70  echo test
+   71  echo test > test.XD
+   72  mkdir 192615
+   73  cd 192615
+   74  touch readme.md
+   75  ls
+   76  cd
+   77  ls
+   78  cd ..
+   79  cd environment/kanclerj/
+   80  ls
+   81  ls
+   82  pwd
+   83  pwd
+   84  cd 194614
+   85  ls
+   86  ls
+   87  pwd
+   88  cd environment/
+   89  cd  1194704
+   90  cd 194798
+   91  cd 194221
+   92  cd  194704
+   93  cd 194614/
+   94  ls
+   95  ls
+   96  cd 195120
+   97  cd 192084
+   98  ls
+   99  ls
+  100  ls
+  101  cd 192991
+  102  ps aux | grep 194798
+  103  cd 193113
+  104  cd 192207
+  105  javac test.java
+  106  aws 
+  107  aws
+  108  aws
+  109  aws
+  110  aws
+  111  aws
+  112  aws
+  113  aws
+  114  aws
+  115  aws
+  116  aws help
+  117  aws help
+  118  aws help
+  119  aws help
+  120  aws help
+  121  aws help
+  122  aws s3
+  123  aws s3
+  124  aws help
+  125  aws help
+  126  aws help
+  127  aws s3
+  128  aws s3
+  129  aws s3 help
+  130  aws s3 help
+  131  aws s3 help
+  132  aws s3 help
+  133  aws s3 help
+  134  aws help
+  135  aws s3 help
+  136  pwd
+  137  aws s3 help
+  138  cd 192615/
+  139  ls
+  140  pip list 
+  141  python --version
+  142  aws s3 ls 
+  143  aws s3 ls
+  144  aws s3 ls
+  145  aws s3 ls
+  146  aws s3 help
+  147  aws s3 ls
+  148  aws s3 ls
+  149  aws s3 ls
+  150  aws s3 ls
+  151  aws s3 ls | grep jkanclerz
+  152  aws s3 ls
+  153  aws s3 help
+  154  python list_bucket.py 
+  155  ls
+  156  python list_bucket.py 
+  157  pwd
+  158  py listbucket.py 
+  159  ls
+  160  python list_bucket.py
+  161  python listbucket.py 
+  162  python testbucket.py
+  163  python list_bucket.py
+  164  cd 193113
+  165  cd 192207
+  166  python list_bucket.py 
+  167  python list_bucket.py
+  168  python list_bucket.py 
+  169  ls
+  170  cd ..
+  171  ls
+  172  python testbucket.py
+  173  cd 194798
+  174  python testbucket.py
+  175  mkdir nodejs
+  176  cd nodejs/
+  177  ls
+  178  npm init
+  179  mkdir index.js
+  180  rm index.js/
+  181  rm index.js/ -d
+  182  touch inde.js
+  183  npm install aws-sdk
+  184  run list_bucket.py
+  185  cls
+  186  clear
+  187  python upload.py 
+  188  python upload.py
+  189  python upload.py 
+  190  python upload.py 
+  191  python upload.py
+  192  python upload.py
+  193  python upload.py
+  194  python upload.py 
+  195  cd 194614/
+  196  python update.py
+  197  cd ~
+  198  ls
+  199  cd ..
+  200  ls
+  201  cd ..
+  202  ls
+  203  cd etc
+  204  ls
+  205  cd ..
+  206  ls
+  207  ld
+  208  cd home/
+  209  ls
+  210  cd ssm-user/
+  211  cd ec2-user/
+  212  ls
+  213  cd environment/194798/
+  214  ls
+  215  pwd
+  216  ls
+  217  python upload.py 
+  218  ls
+  219  python upload.py 
+  220  aws s3 help
+  221  aws s3 help
+  222  history
+  223  aws s3 ls
+  224  aws s3 
+  225  ls
+  226  cd 192084
+  227  ls
+  228  python playgroud.py 
+  229  python upload.py 
+  230  python playgroud.py 
+  231  python upload.py 
+  232  python playgroud.py 
+  233  python upload.py 
+  234  pwd
+  235  ls
+  236  cd 192615/
+  237  python upload.py 
+  238  cd jkanclerz/
+  239  mkdir UI
+  240  cd UI/
+  241  npm init
+  242  npm install --global yarn
+  243  yarn
+  244  pwd
+  245  ls
+  246  cd 1925615
+  247  cd 195120
+  248  cd 192615
+  249  cd MediaUploadUI/
+  250  ls
+  251  cd 193113
+  252  ls
+  253  cd MediaUploadUI/
+  254  ls
+  255  cd MediaUploadUI/
+  256  ls
+  257  ls
+  258  cd 194157
+  259  ls
+  260  ls
+  261  pwd
+  262  PWD
+  263  pwd
+  264  pwd
+  265  cd 194798/MediaUploadUI/
+  266  ls
+  267  cd 192270
+  268  cd MediaUploadUI
+  269  ls
+  270  ls
+  271  aws s3 help
+  272  aws s3 help
+  273  cd MediaUploadUI
+  274  cd 194704
+  275  cd MediaUploadUI
+  276  aws s3 cp index.html s3://bhaldas/index.html --acl=public-read
+  277  aws s3 cp index.html s3://195120/index.html ---acl=public-read
+  278  aws s3 cp INDEX.HTML s3://192615/index.html --acl=public-read
+  279  aws s3 cp index.html s3://193113/index.html --acl=public-read
+  280  aws s3 cp index.html s3://s194704/index.html --acl=public-read
+  281  aws s3 cp index.html s3://194798/index.html --acl=public-read
+  282  aws s3 cp index.html s3://195120/index.html --acl=public-read
+  283  aws s3 cp index.html s3://194157/index.html --acl=public-read
+  284  cd ~
+  285  ls
+  286  cd env
+  287  cd environment/
+  288  ls
+  289  cd 192991
+  290  aws s3 cp index.html s3://bhaldas/index.html --acl=public-read
+  291  cd MediaUploadUI/
+  292  aws s3 cp index.html s3://bhaldas/index.html --acl=public-read
+  293  aws s3 cp index.html s3://192270/index.html --acl=public-read
+  294  aws s3 cp index.html s3://gogol_182456//index.html --acl=public-read
+  295  $ aws s3 cp index.html s3://gogol_182456//index.html --acl=public-read
+  296  aws s3 cp index.html s3://gogol_182456//index.html --acl=public-read
+  297  upload ./index.html to s3://192207/index.html
+  298  aws s3 cp index.html s3://gogol_s182456//index.html --acl=public-read
+  299  aws s3 cp index.html
+  300  aws s3 cp index.html s3://182456//index.html --acl=public-read
+  301  aws s3 cp index.html s3://192207/index.html
+  302  upload: ./index.html to s3://192207/index.html
+  303  cd 192207
+  304  cd mediauploadui
+  305  ls
+  306  upload: ./index.html to s3://192207/index.html
+  307  aws s3 cp index.html s3://192207/index.html
+  308  upload: ./index.html to s3://192207/index.html
+  309  cd MediaUploadUI
+  310  upload: ./index.html to s3://192207/index.html
+  311  aws s3 cp index.html s3://192207/index.html
+  312  upload: ./index.html to s3://192207/index.html
+  313  aws s3 cp index.html s3://192207/index.html
+  314  aws s3 cp index.html s3://192207/index.html --acl=public-read
+  315  ls
+  316  cd 182456
+  317  ls
+  318  aws s3 cp index.html s3://s192207/index.html --acl=public-read
+  319  cd MediaUploadUI
+  320  aws s3 cp index.html s3://182456//index.html --acl=public-read
+  321  yarn init
+  322  yarn init
+  323  yarn init
+  324  yarn init
+  325  yarn init
+  326  yarn init
+  327  yarn init
+  328  yarn init
+  329  yarn init
+  330  yarn init
+  331  yarn add webpack
+  332  yarn add webpack webpack-cli
+  333  yarn add webpack webpack-cli
+  334  yarn add webpack webpack-cli
+  335  yarn add webpack weback-cli -D
+  336  yarn add webpack webpack-cli -D
+  337  yarn add webpack webpack-cli -D
+  338  yarn add webpack webpack-cli -D
+  339  yarn add webpack webpack-cli -D
+  340  yarn add webpack webpack-cli -D
+  341  yarn add webpack webpack-cli -D
+  342  yarn add webpack webpack-cli -D
+  343  yarn add webpack webpack-cli -D
+  344  yarn add aws-sdk-amplify
+  345  yarn add aws-sdk aws-amplify
+  346  yarn add aws-sdk aws-amplify
+  347  yarn add aws-sdk aws-amplify
+  348  yarn add aws-sdk aws-amplify
+  349  yarn add aws-sdk aws-amplify
+  350  yarn add aws-sdk aws-amplify
+  351  yarn add aws-sdk aws-amplify
+  352  yarn aws-sdk aws-implify
+  353  yarn add aws-sdk aws-implify
+  354  yarn add aws-sdk aws-amplify
+  355  yarn add aws-sdk aws -amplify
+  356  yarn add webpack webpack-cli -D
+  357  df -h
+  358  df -h
+  359  df-h
+  360  who
+  361  df -h
+  362  pwd
+  363  df -h
+  364  w
+  365  ls 192615/MediaUploadUI/
+  366  df -h
+  367  CD 192615/MediaUploadUI/
+  368  cd 192615/MediaUploadUI/
+  369  yarn add webpack webpack-cli -D
+  370  rm -rf node_modules/
+  371  rm -rf node_modules/
+  372  rm -rf node_modules
+  373  df -h
+  374  yarn add aws-sdk aws-amplify
+  375  yarn add webpack webpack-cli -D
+  376  yarn add aws-sdk aws-amplify
+  377  lvstatus
+  378  npm install
+  379  npm i
+  380  pvscan
+  381  lvscan
+  382  df -h
+  383  yarn webpack build
+  384  yarn webpack build
+  385  yarn webpack build
+  386  yarn webpack buid
+  387  yarn webpack build
+  388  yarn webpack build
+  389  yarn webpack build
+  390   yarn webpack build
+  391  npm install
+  392  yarn webpack build
+  393  yarn webpack build
+  394  yarn webpack build
+  395  yarn webpack build
+  396  df -h
+  397  df -h
+  398  yarn webpack build
+  399  webpack init
+  400  yarn init
+  401  ls
+  402  yarn webpack build
+  403  yarn webpack init
+  404  yarn add webpack webpack-cli -D
+  405  yarn add aws-sdk aws-amplify
+  406  yarn webpack build
+  407  df -h
+  408  yarn webpack build
+  409  yarn add webpack webpack-cli -D
+  410  yarn add aws-sdk aws-amplify
+  411  yarn webpack build
+  412  aws s3 cp dist/index.html s3://bhaldas/index.html --acl=public=read
+  413  aws s3 cp dist/index.html s3://194798/index.html --acl=public-read
+  414  aws s3 cp dist/index.html s3://bhaldas/index.html --acl-public=read
+  415  aws s3 cp dist/main.js s3://194798/main.js --acl=public-read
+  416  aws s3 cp dist/index.html s3://bhaldas/index.html --acl=public-read
+  417  aws s3 cp index.html s3://192270/index.html --acl=public-read
+  418  aws s3 cp main.js s3://192270/main.js --acl=public-read
+  419  aws s3 cp dist/index.html s3://194798/index.html --acl=public-read
+  420  aws s3 cp dist/main.js s3://194798/main.js --acl=public-read
+  421  aws s3 cp index.html s3://192270/dist/index.html --acl=public-read
+  422  aws s3 cp index.html s3://192270/MediaUploadUI/dist/index.html --acl=public-read
+  423  yarn webpack build
+  424  pwd
+  425  cd~
+  426  ls
+  427  cd 192991
+  428  yarn webpack build
+  429  ls
+  430  cd MediaUploadUI/
+  431  yarn webpack build
+  432  yarn add webpack webpack-cli -D
+  433  yarn add aws-sdk aws-amplify
+  434  yarn webpack build
+  435  df -h
+  436  yarn webpack build
+  437  ls
+  438  cd 193113
+  439  cd MediaUploadUI/
+  440  yarn webpack build
+  441  yarn webpack build --debug-webpack
+  442  yarn webpack build
+  443  yarn webpack build --display-error-details
+  444  npm init
+  445  yarn webpack build --display-error-details
+  446  npm i
+  447  yarn webpack build --display-error-details
+  448  webpack build
+  449  yarn webpack build --display-error-detail
+  450  webpack
+  451  yarn webpack
+  452  sudo mount -t nfs -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-b033047b.efs.eu-west-1.amazonaws.com:/ /efs
+  453  sudo mkdir /efs
+  454  sudo mount -t nfs -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-b033047b.efs.eu-west-1.amazonaws.com:/ /efs
+  455  ls
+  456  cat /etc/fstab 
+  457  ls
+  458  sudo mount -fav
+  459  ( find . -type d -name "node_modules" )
+  460  ( find . -type d -name "node_modules" ) | xargs rm -rf
+  461  df -h
+  462  cd ..
+  463  pwd
+  464  cd ..
+  465  ls
+  466  cp -r ec2-user/* /efs/home/ec2-user/
+  467  sudo cp -r ec2-user/* /efs/home/ec2-user/
+  468  ls
+  469  cd /efs/home/ec2-user/
+  470  ls
+  471  rm -rf node_modules/
+  472  sudo rm -rf node_modules/
+  473  ls
+  474  cd environment/
+  475  ls
+  476  cd jkanclerz/
+  477  ls
+  478  cd UI/
+  479  ls
+  480  ls -la
+  481  ls
+  482  cd 
+  483  cd /efs/
+  484  sudo chown ec2-user:ec2-user -R home/ec2-user/
+  485  ls
+  486  cd home/ec2-user/environment/jkanclerz/
+  487  yarn install
+  488  ls
+  489  cd UI/
+  490  ;s
+  491  ls
+  492  yarn install
+  493  ls
+  494  cat package.json 
+  495  yarn add aws-sdk
+  496  vi package.json 
+  497  yarn install 
+  498  yarn webpack
+  499  git status
+  500  ls
+  501  cd ..
+  502  ls
+  503  pwd
+  504  sudo vi /etc/fstab 
+  505  history
+  506  cat /etc/fstab 
+  507  sudo mount -fav
+  508  cd 
+  509  ls
+  510  cd environment/
+  511  ls
+  512  cd jkanclerz/
+  513  ls
+  514  cd UI/
+  515  ls
+  516  yarn install
+  517  ls
+  518  ls -la
+  519  cat /etc/fstab 
+  520  ls
+  521  cat /etc/fstab 
+  522  sudo mount -fav
+  523  reboot
+  524  sudo reboot
+  525  pwd
+  526  cat /etc/fstab 
+  527  ls
+  528  cd ..
+  529  cd environment/
+  530  ls
+  531  cd ..
+  532  ls
+  533  cd environment/
+  534  ls
+  535  ls -la
+  536  ls
+  537  mc
+  538  sudo yum install mc
+  539  exit
+  540  mc
+  541  rm tarted\,\ create\ some\ files\,\ play\ with\ the\ terminal\, 
+  542  rm test.XD 
+  543  ls
+  544  vi /etc/fstab 
+  545  sudo mount fs-b033047b:/home/ec2-user /home/ec2-user
+  546  sudo mount -t efs fs-b033047b:/home/ec2-user /home/ec2-user
+  547  ls
+  548  ls -la
+  549  pwd
+  550  sudo vi /etc/fstab 
+  551  sudo reboot
+  552  cat /etc/fstab 
+  553  history | grep mount
+  554  sudo mount -t nfs -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-b033047b.efs.eu-west-1.amazonaws.com:/home/ec2-user/environment home/ec2-user/environment
+  555  sudo mount -t nfs -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-b033047b.efs.eu-west-1.amazonaws.com:/home/ec2-user/environment /home/ec2-user/environment
+  556  ls
+  557  cd ..
+  558  cd environment/
+  559  ls
+  560  sudo reboot
+  561  sudo mount -fav
+  562  pwd
+  563  sudo vi /etc/fstab 
+  564  sudo mount -fav
+  565  ls
+  566  cd ..
+  567  cd environment/
+  568  ls
+  569  df -h
+  570  sudo mount -t nfs -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-b033047b.efs.eu-west-1.amazonaws.com:/home/ec2-user/environment /home/ec2-user/environment
+  571  df -h
+  572  cat /etc/fstab 
+  573  vi /etc/fstab 
+  574  sudo vi /etc/fstab 
+  575  sudo mount -fav
+  576  ls
+  577  sudo reboot
+  578  ls
+  579  ls -la
+  580  sudo vi /etc/fstab 
+  581  df -h
+  582  cd 194221/
+  583  cd MediaUploadUI
+  584  ls
+  585  pwd
+  586  aws s3 cp index.html s3://a194221/index.html --acl=public-read
+  587  yarn init
+  588  cd 194221
+  589  cd MediaUploadUI
+  590  yarn add webpack webpack-cli -D
+  591  yarn add aws-sdk aws-amplify
+  592  yarn webpack build
+  593  cd ..
+  594  cd 192207
+  595  cd MediaUploadUI
+  596  ls
+  597  cd ..
+  598  cd..
+  599  cd 192206
+  600  cd 192207
+  601  tree
+  602  ls
+  603  cd ~/environment/192207
+  604  yarn webpack build
+  605  ls
+  606  yarn webpack build
+  607  ls
+  608  cd MediaUploadUI
+  609  yarn webpack build
+  610  sudo node_modules
+  611  aws s3 cp dist/index.html s3://a194221/index.html --acl=public-read
+  612  aws s3 cp dist/main.js s3://a194221/main.js --acl=public-read
+  613  aws s3 cp dist/index.html s3://a194221/194221/index.html --acl=public-read
+  614  yarn webpack
+  615  cd 193113
+  616  yarn webpack
+  617  cd MediaUploadUI/
+  618  yarn webpack
+  619  npm i
+  620  yarn webpack
+  621  aws s3 cp dist/index.html s3://193113/index.html --acl=public-read
+  622  df -h
+  623  aws s3 cp dist/index.html s3://193113/index.html --acl=public-read
+  624  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  625  aws s3 cp dist/index.html s3://193113/index.html --acl=public-read
+  626  aws s3 cp dist/index.html s3://193113-jankos/index.html --acl=public-read
+  627  npm install
+  628  cd
+  629  ls src
+  630  cd src
+  631  cd MediaUploadUI
+  632  ls
+  633  rm node_modules
+  634  rm node_modules -f
+  635  rm -f node_modules
+  636  rm -d node_modules
+  637  rm -d node_modules -f
+  638  em -d -f node_modules
+  639  rm -d -f node_modules
+  640  rm -df node_modules
+  641  rm -r node_modules
+  642  ls
+  643* 
+  644  ls
+  645  cd MediaUploadedUI
+  646  ls
+  647  npm install
+  648  ls
+  649  yarn webpack build
+  650  npm install
+  651  yarn webpack build
+  652  npm install
+  653  npm install
+  654  yarn
+  655  yarn webpack build
+  656  webpack
+  657  yarn webpack
+  658  npm install --save-dev webpack
+  659  npm install
+  660  npm install --save-dev yarn
+  661  yarn webpack build
+  662  yarn run
+  663  ls
+  664  yarn
+  665  webpack
+  666  yarn webppack
+  667  yarn webpack
+  668  yarn add aws-amplify
+  669  yarn webpack build
+  670  ls
+  671  yarn webppack build
+  672  yarn webpack build
+  673  clear
+  674  yarn webpack build
+  675  aws s3 cp dist/index.html s3://s194704/index.html --acl=public-read
+  676  sudo si
+  677  df -h
+  678  cd /etc/fstab 
+  679  ls
+  680  cd /etc
+  681  cd 139113
+  682  ls
+  683  cd 193113/
+  684  cd MediaUploadUI/
+  685  ls
+  686  npm i
+  687  yarn webpack
+  688  aws s3 cp dist/index.html s3://s193113/index.html --acl=public-read
+  689  aws s3 cp dist/index.html s3://193113/index.html --acl=public-read
+  690  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  691  aws s3 cp dist/index.html s3://193113/index.html --acl=public-read
+  692  yarn webpack
+  693  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  694  yarn webpack
+  695  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  696  npm i
+  697  sudo su
+  698  cat /etc/fstab 
+  699  cd 193113
+  700  yarn webpack
+  701  cd MediaUploadUI/
+  702  yarn webpack
+  703  cd jkanclerz/
+  704  ls
+  705  cd UI/
+  706  ls
+  707  npm i
+  708  yarn webpack
+  709  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  710  sudo su
+  711  ls
+  712  cd 192615
+  713  cd 192207
+  714  ls
+  715  cd
+  716  cd environment
+  717  df -h
+  718  cd 192207/MediaUploadUI
+  719  cd MediaUploadUI/
+  720  yarn init
+  721  yarn add webpack webpack-cli -D
+  722  aws s3
+  723  cd 195120/MediaUploadUI/
+  724  yarn init
+  725  yarn add aws-sdk aws-amplify
+  726  yarn webpack
+  727  yarn add webpack webpack-cli -D
+  728  history
+  729  yarn add aws-sdk aws-amplify
+  730  yarn webpack
+  731  aws s3 cp index.html s3://192207/index.html --acl=public-read
+  732  ls
+  733  aws s3 cp dist/index.html s3://192615/index.html -acl=public-read
+  734  aws s3 cp dist/index.html s3://195120/index.html --acl=public-read
+  735  aws s3 cp dist/main.js s3://195120/main.js --acl=public-read
+  736  aws s3 cp index.html s3://s192207/index.html --acl=public-read
+  737  yarn webpack
+  738  aws s3 cp dist/index.html s3://192615/index.html --acl=public-read
+  739  aws s3 cp dist/main.js s3://192615/main.js --acl=public-read
+  740  yarn webpack
+  741  yarn webpack
+  742  aws s3 cp dist/main.js s3://192615/main.js --acl=public-read
+  743  aws s3 cp dist/index.html s3://192615/index.html --acl=public-read
+  744  cd src
+  745  cd ..
+  746  webpack
+  747  pwd
+  748  aws s3 cp index.html s3://192270/index.html --acl=public-read
+  749  yarn init
+  750  yarn init
+  751  yarn add webpack webpack-cli -D
+  752  yarn add aws-sdk aws-amplify
+  753  yarn webpack build
+  754  webpack(-cli) --help
+  755  yarn webpack build
+  756  df -h
+  757  du -h 195120
+  758  du -h node_modules
+  759  aws s3 cp index.html s3://192270/index.html --acl=public-read
+  760  ls
+  761  cd 192991
+  762  ls
+  763  cd MediaUploadUI/
+  764  ls
+  765  yarn webpack build
+  766  yarn add aws-sdk aws-amplify
+  767  ls
+  768  cd src
+  769  ls
+  770  yarn add aws-sdk aws-amplify
+  771  yarn add webpack webpack-cli -D
+  772  yarn webpack build
+  773  yarn add webpack
+  774  yarn add webpack webpack-cli -D
+  775  df -h
+  776  yarn webpack build
+  777  yarn webpack build
+  778  webpack
+  779  yarn webpack
+  780  ls
+  781  cd src
+  782  cd 195120/
+  783  ls
+  784  cd MediaUploadUI/
+  785  ls
+  786  yarn webpack build
+  787  cd ..
+  788  yarn webpapck
+  789  yarn webpack build
+  790  yarn webpack
+  791  ls
+  792  pwpd
+  793  yarn webppack
+  794  yarn webpack
+  795  ls
+  796  ls -la src/
+  797  yarn webpack
+  798  ls -la /home/ec2-user/environment/195120/MediaUploadUI
+  799  ls -la /home/ec2-user/environment/195120/MediaUploadUI/src/
+  800  yarn install
+  801  ls
+  802  yarn webpack
+  803  pwd
+  804  rm -rf node_modules/
+  805  cd src
+  806  yarn webpack build
+  807  cd ..
+  808  yarn webpack build
+  809  yarn install
+  810  yarn webpack
+  811  cd
+  812  cd environment/jkanclerz/
+  813  ls
+  814  cd 02_cognito--js-ui/
+  815  ls
+  816  yarn webpack
+  817  cd 
+  818  cd environment/195120/
+  819  ls
+  820  cd MediaUploadUI/
+  821  ls
+  822  yarn webpack
+  823  cd ..
+  824  cd ui/
+  825  ls
+  826  yarn webppack
+  827  yarn webpack
+  828  cd src
+  829  yarn webpack build
+  830  cd ..
+  831  cat /home/ec2-user/environment/195120/ui/src/test.js 
+  832  yarn webpack
+  833  ls
+  834  yarn webpack --help
+  835  yarn webpack build
+  836  yarn webpack
+  837  cd ..
+  838  cd ui
+  839  yarn webpack build
+  840  ls
+  841  yarn webpack
+  842  pwd
+  843  yarn webpack
+  844  aws s3 cp dist/index.html s3://195120/index.html --acl=public-read
+  845  aws s3 cp dist/main.js s3://195120/main.js --acl=public-read
+  846  cd ./193113
+  847  cd ./..
+  848  cd ./193670
+  849  aws s3 cp dist/index.html s3://s192207/index.html
+  850  aws s3 cp dist/main.js s3://s192207/main.js
+  851  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  852  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  853  cd 194221
+  854  cd ui/dist/
+  855  ls
+  856  cd ./..
+  857  cd ..
+  858  ls
+  859  cd 193113
+  860  cd MediaUploadUI/
+  861  ls
+  862  cd Media diaUploadUI
+  863  yarb webpack
+  864  cd MediaUploadUI
+  865  yarn webpack
+  866  yarn webpack
+  867  yarn webpack
+  868  yarn install
+  869  yarn webpack
+  870  yarn install
+  871  yarn webpack
+  872  ls
+  873  cd 194798
+  874  ls
+  875  cd MediaUploadUI/
+  876  ls
+  877  yarn webpack
+  878  ls
+  879  cd src
+  880  ls
+  881  yarn webpack
+  882  cd..
+  883  cd ..
+  884  yarn webpack
+  885  aws s3 cp dist/index.html s3://192615/index.html --acl=public-read
+  886  cd MediaUploadUI
+  887  aws s3 cp dist/main.js s3://192615/main.js --acl=public-read
+  888  yarn webpack
+  889  yarn webpack build
+  890  yarn install
+  891  yarn webpack
+  892  yarn webpack
+  893  cd ..
+  894  ls
+  895  aws s3 cp dist/index.html s3://194798/index.html --acl=public-read
+  896  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  897  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  898  aws s3 cp dist/main.js s3://194798/main.js --acl=public-read
+  899  aws s3 cp dist/main.js s3://s193113/main.js --acl=public-read
+  900  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  901  yarn webpack
+  902  aws s3 cp dist/main.js s3://193113/main.js --acl=public-read
+  903  aws s3 cp index.html s3://bhaldas/index.html --acl=public-read
+  904  cd d..
+  905  cd ..
+  906  cd dist
+  907  aws s3 cp index.html s3://bhaldas/index.html --acl=public-read
+  908  history
+  909  yarn webpack build
+  910  ls
+  911  cd src
+  912  yarn webpack build
+  913  ls
+  914  yarn webpack
+  915  yarn webpack
+  916  cd ..
+  917  yarn webpack build
+  918  yarn webpack build
+  919  aws s3 cp dist/main.js s3://bhaldas/main.js --acl=public-read
+  920  chmod +x deploy.sh 
+  921  chmod +e deploy.sh 
+  922  ./deploy.sh 
+  923  chmod +x deploy.sh 
+  924  ./deploy.sh 
+  925  chmod +x deploy.sh
+  926  cd ..
+  927  chmod +x deploy.sh 
+  928  chmod +x deploy.sh
+  929  chmod +x deploy.sh
+  930  yarn build
+  931  yarn hello
+  932  yarn build
+  933  yarn deploy
+  934  yarn hello
+  935  yarn build
+  936  aws s3 cp dist/main.js s3://bhaldas/main.js --acl=public-read
+  937  aws s3 cp dist/index.html s3://bhaldas/main.js --acl=public-read
+  938  yarn deploy
+  939  yarn deploy
+  940  cd ..
+  941  chmod +x deploy.sh
+  942  . deploy.sh
+  943  cd ui
+  944  chmod +x deploy.sh
+  945  yarn deploy
+  946  yarn deploy
+  947  yarn webpack
+  948  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  949  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  950  yarn deploy
+  951  yarn webpack
+  952  yarn deploy
+  953  yarn webpack
+  954  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  955  yarn webpack
+  956  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  957  yarn deploy
+  958  yarn webpack
+  959  yarn deploy
+  960  yarn deploy
+  961  yarn webpack
+  962  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  963  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  964  yarn webpack
+  965  yarn deploy
+  966  yarn webpack
+  967  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  968  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  969  git status
+  970  yarn webpack
+  971  yarn deploy
+  972  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  973  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  974  yarn webpack
+  975  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  976  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  977  yarn webpack
+  978  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  979  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  980  BUCKET_NAME = 195120
+  981  date
+  982  yarn webpack
+  983  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  984  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  985  yarn webpack
+  986  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  987  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  988  yarn webpack
+  989  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  990  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  991  . deploy.sh
+  992  yarn webpack
+  993  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+  994  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  995  yarn webpack
+  996  yarn webpack
+  997* 
+  998  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+  999  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+ 1000  yarn webpack
+ 1001  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+ 1002  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+ 1003  yarn webpack
+ 1004  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+ 1005  aws s3 cp dist/index.html s3://s192207/index.html --acl=public-read
+ 1006  git init
+ 1007  git status
+ 1008  git add .
+ 1009  cd 192207
+ 1010  ls
+ 1011  cd MediaUploadUI
+ 1012  git init
+ 1013  git status
+ 1014  git add .
+ 1015  git status
+ 1016  git commit -a -m 'initial for ui component'
+ 1017  git push origin master
+ 1018  git remote add origin https://github.com/ewabak/WPC.git
+ 1019  git push -u origin master
+ 1020  yarn webpack build
+ 1021  aws s3 cp index.html s3://kanclerj/index.html --acl=public-read
+ 1022  yarn init
+ 1023  cd MediaUploadUI
+ 1024  ls
+ 1025  cd 192084
+ 1026  aws s3 cp index.html s3://kanclerj/index.html --acl=public-read
+ 1027  yran install 
+ 1028  yarn install 
+ 1029  yarn webpack
+ 1030  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1031  aws s3 cp dist/main.js s3://192270/main.js --acl=public-read
+ 1032  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1033  aws configure 
+ 1034  aws s3 cp dist/main.js s3://192270/main.js --acl=public-read
+ 1035  aws configure 
+ 1036  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1037  aws configure list
+ 1038  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1039  yarn webpack
+ 1040  aws configure list
+ 1041  aws configure 
+ 1042  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1043  chmod +x deploy.sh
+ 1044  ./deploy.sh
+ 1045  cd 192084
+ 1046  cd ~
+ 1047  cd /
+ 1048  cd ../
+ 1049  ls
+ 1050  cd ~
+ 1051  ls
+ 1052  cd environment/
+ 1053  cd 192084
+ 1054  ls
+ 1055  yarn init
+ 1056  yarn add webpack webpack-cli -D
+ 1057  yarn add aws-sdk aws-amplify
+ 1058  df -h
+ 1059  yarn webpack build
+ 1060  aws s3 cp index.html s3://192084/src/index.html --acl=public-read
+ 1061  aws s3 cp index.html s3://192084/dist/index.html --acl=public-read
+ 1062  aws s3 cp index.html s3://192084/index.html --acl=public-read
+ 1063  aws s3 cp index.html s3://192084/MediaUploadUI/index.html --acl=public-read
+ 1064  aws s3 cp index.html s3://192084/MediaUploadUI/src/index.html --acl=public-read
+ 1065  cd /194221/MediaUploadUI
+ 1066  cd /194221
+ 1067  cd 194221
+ 1068  cd MediaUploadUI
+ 1069  ls
+ 1070  aws s3 cp index.html s3://a194221/index.html --acl=public-read
+ 1071  yarn init
+ 1072  yarn add webpack webpack-cli -D
+ 1073  yarn aws-sdk aws-amplify
+ 1074  yarn add aws-sdk aws-amplify
+ 1075  r
+ 1076  cd 194221
+ 1077  cd MediaUploadUI
+ 1078  ./deploy.sh
+ 1079  ls
+ 1080  cd 192207
+ 1081  ls
+ 1082  cd MediaUploadUI
+ 1083  ls
+ 1084  ./deploy.sh
+ 1085  chmod +x deploy.sh
+ 1086  ./deploy.sh
+ 1087  pwd
+ 1088  cd 192084
+ 1089  ls
+ 1090  cd MediaUploadUI/
+ 1091  ls
+ 1092  cd dist
+ 1093  cd 192207
+ 1094  cd MediaUploadUI
+ 1095  history
+ 1096  ./deploy.sh
+ 1097  aws configure list
+ 1098  aws s3 cp index.html s3://192084/index.html --acl=public-read
+ 1099  ./deploy.sh
+ 1100  yarn webpack
+ 1101  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+ 1102  ./deploy.sh
+ 1103  webpack build
+ 1104  yarn webpack
+ 1105  yarn webpack build
+ 1106  cd ../
+ 1107  cd /..
+ 1108  cd ./192084
+ 1109  cd ~/192084
+ 1110  ls
+ 1111  pwd
+ 1112  cd usr
+ 1113  ls
+ 1114  cd ..
+ 1115  ls
+ 1116  cd ~
+ 1117  ls
+ 1118  cd environment/
+ 1119  cd 192084/MediaUploadUI
+ 1120  yarn webpack
+ 1121  webpack build
+ 1122  yarn build
+ 1123  ls
+ 1124  ./deploy.sh
+ 1125  stat deploy.sh
+ 1126  yarn webpack
+ 1127  aws s3 cp dist/main.js s3://s192207/main.js --acl=public-read
+ 1128  ./deploy.sh
+ 1129  y
+ 1130  ls
+ 1131  cd 192615
+ 1132  yarn hello
+ 1133  cd MediaUploadUI/
+ 1134  dir
+ 1135  yarn hello
+ 1136  yarn build
+ 1137  yarn deploy
+ 1138  dir
+ 1139  ./deploy.sh 
+ 1140  car deploy.sh 
+ 1141  cat deploy.sh 
+ 1142  cd ../listbucket.py 
+ 1143   ../listbucket.py 
+ 1144  python  ../listbucket.py 
+ 1145  python ../listbucket.py 
+ 1146  pwd
+ 1147  cd dist
+ 1148  aws s3 ls
+ 1149  pwd
+ 1150  ls -la
+ 1151  aws s3 cp index.html s3://192084/MediaUploadUI/dist/index.html
+ 1152  aws s3 cp index.html s3://192084/MediaUploadUI/dist/index.html --acl=public-read
+ 1153  ./deploy.sh 
+ 1154  ls
+ 1155  aws s3 ls
+ 1156  ls
+ 1157  aws s3 ls
+ 1158  ./deploy.sh 
+ 1159  python ../listbucket.py 
+ 1160  cd 194157
+ 1161  cd MediaUploadUI
+ 1162  yarn add webpack-dev-server
+ 1163  cd 192991
+ 1164  aws s3 ls 
+ 1165  aws s3 cp index.html s3://192084/MediaUploadUI/dist/index.html --acl=public-read
+ 1166  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1167  aws s3 cp dist/main.js s3://192270/main.js --acl=public-read
+ 1168  yarn build
+ 1169  cd 195120
+ 1170  cd ui
+ 1171  yarn build
+ 1172  ls
+ 1173  cd 194798
+ 1174  ls
+ 1175  cd MediaUploadUI/
+ 1176  cd src/
+ 1177  ls
+ 1178  cd ..
+ 1179  ls
+ 1180  yarn add webpack-cli -D
+ 1181  yarn webpack build
+ 1182  BUCKET_NAME=195120 yarn deploy
+ 1183  ls
+ 1184  yarn deploy
+ 1185  cd mediauploadid
+ 1186  cd MediaUploadUI/
+ 1187  ls
+ 1188  yarn deploy
+ 1189  $ BUCKET_NAME=194798 
+ 1190  BUCKET_NAME
+ 1191  ls
+ 1192  ./deploy.sh 
+ 1193  yarn build
+ 1194  yarn deploy
+ 1195  yarn add aws-sdk aws-amplify
+ 1196  yarn webpack build
+ 1197  pws
+ 1198  pwd
+ 1199  ls
+ 1200  cd 194704
+ 1201  cd MediaUploadUI
+ 1202  ls
+ 1203  npm install
+ 1204  $ BUCKET_NAME=s19470 yarn deploy
+ 1205  BUCKET_NAME=s19470 yarn deploy
+ 1206  chmod +x deploy.sh
+ 1207  ls
+ 1208  ls -l
+ 1209  BUCKET_NAME=s19470 yarn deploy
+ 1210  aws s3 cp dist/index.html s3://194157/index.html
+ 1211  aws s3 cp dist/index.html s3://194157/index.html --acl=public-read
+ 1212  aws s3 cp dist/main.js s3://194157/main.js --acl=public-read
+ 1213  BUCKET_NAME=buckets/s19470 yarn deploy
+ 1214  yarn webpack
+ 1215  BUCKET_NAME=s19470 yarn deploy
+ 1216  BUCKET_NAME=s194704 yarn deploy
+ 1217  npm install
+ 1218  yarn webpack
+ 1219  BUCKET_NAME=s194704 yarn deploy
+ 1220  yarn webpack
+ 1221  BUCKET_NAME=s194704 yarn deploy
+ 1222  yarn install
+ 1223  yarn webpack
+ 1224  cd 192084
+ 1225  cd ../..
+ 1226  yarn webpack
+ 1227  cd MediaUploadUI/
+ 1228  yarn webpack
+ 1229  cd 192084
+ 1230  yarn webpack
+ 1231  cd MediaUploadUI/
+ 1232  yarn webpack
+ 1233  aws s3 cp dist/index.html s3://192084/index.html --acl+public-read
+ 1234  aws s3 cp dist/index.html s3://192084/index.html --acl=public-read
+ 1235  aws s3 cp dist/main.js s3://192084/main.js --acl=public-read
+ 1236  aws s3 cp dist/index.html s3://192084/index.html --acl=public-read
+ 1237  cd 192084/MediaUploadUI/
+ 1238  aws s3 cp dist/index.html s3://192084/index.html --acl=public-read
+ 1239  chmod +x deploy.sh
+ 1240  ./deploy.sh
+ 1241  yarn hello
+ 1242  yarn build
+ 1243  yarn deploy
+ 1244  aws s3 ls
+ 1245  cat /etc/fstab 
+ 1246  ls -la | wc -l
+ 1247  ls
+ 1248  yarn deploy
+ 1249* 
+ 1250  yarn install
+ 1251* 
+ 1252  BUCKET_NAME=192270 yarn deploy 
+ 1253  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1254  aws help
+ 1255  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1256  cls
+ 1257  aws s3 cp dist/index.html s3://192270/index.html --acl=public-read
+ 1258  BUCKET_NAME=192270 yarn deploy 
+ 1259  history > history.txt
